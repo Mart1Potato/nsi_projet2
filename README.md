@@ -1,32 +1,25 @@
-# nsi_projet2
 # Séances
 
 ## Séance 1
-### Répartition
-- Personne 1 :
-- Personne 2 :
-- Personne 3 :
+Explication de github et répartion
 
 ## Séance 2
 ### Répartition
-- Personne 1 :
-- Personne 2 :
-- Personne 3 :
+- Thiméo : Programme principal
+- Madeleine : Finir fonctions sur les lettres
+- Martin : Finir fonctions sur les mots
 
 ## Séance 3
 ### Répartition
-- Personne 1 :
-- Personne 2 :
-- Personne 3 :
+- Thiméo : Finir programme principale
+- Madeleine : TKINTER
+- Martin : approfondissments + TKINTER
 
 ## Séance 4
 ### Répartition
-- Personne 1 :
-- Personne 2 :
-- Personne 3 :
-
+Finir v2
 ## Séance 5
 ### Répartition
-- Personne 1 :
-- Personne 2 :
-- Personne 3 :
+- Thiméo :, Diapo
+- Madeleine : Plan de l'exposé
+- Martin : Contenu
