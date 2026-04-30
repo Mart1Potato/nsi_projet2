@@ -23,7 +23,7 @@ def remplacer_lettre(mot_cache, tuple_indices, lettre):
      liste on verra) mais en ayant remplacé les astérisques par la lettre à
      sa place dans le mot original.
     '''
-    assert type(tuples_indices) == tuple, "tuples_indices n'est pas une chaine de caractères"
+    assert type(tuple_indices) == tuple, "tuples_indices n'est pas un tuple"
     assert type(mot_cache) == list, "mot_cache n'est pas une liste"
     for indice in tuple_indices:
         mot_cache[indice] = lettre
