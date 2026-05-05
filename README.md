@@ -11,9 +11,7 @@ Explication de github et répartion
 
 ## Séance 3
 ### Répartition
-- Thiméo : Finir programme principale
-- Madeleine : abs
-- Martin : approfondissments + TKINTER
+Approfondissments + TKINTER
 
 ## Séance 4
 ### Répartition
