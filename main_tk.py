@@ -13,16 +13,15 @@ LISTE_MOTS = ["python", "programmation", "ordinateur", "clavier", "algorithme",
 NB_ESSAIS = 10
 
 # ── Palette de couleurs ────────────────────────────────────────────────────────
-BG       = "#0f0f1a"  # Fond principal (noir bleuté)
-SURFACE  = "#1a1a2e"  # Surfaces secondaires (bleu nuit)
-BORDER   = "#2a2a4a"  # Bordures des cadres
-ACCENT   = "#e94560"  # Accent principal (rouge/rose)
-ACCENT2  = "#0f3460"  # Accent secondaire (bleu foncé)
-TEXT     = "#eaeaea"  # Texte principal (blanc cassé)
-TEXT_DIM = "#6c6c8a"  # Texte secondaire (gris violet)
-SUCCESS  = "#4ecca3"  # Messages de succès (vert menthe)
-WARNING  = "#f5a623"  # Avertissements (orange)
-
+BG       = "#ffffff"  # Fond principal 
+SURFACE  = "#b5b5b5"  # Surfaces secondaires 
+BORDER   = "#000000"  # Bordures des cadres
+ACCENT   = "#e94560"  # Accent principal
+ACCENT2  = "#3269e8"  # Accent secondaire
+TEXT     = "#000000"  # Texte principal
+TEXT_DIM = "#ffffff"  # Texte secondaire 
+SUCCESS  = "#4ecca3"  # Messages de succès 
+WARNING  = "#8800ff"  # Avertissements 
 
 # ── Les 10 étapes du dessin ────────────────────────────────────────────────────
 # Chaque étape est une fonction qui trace une partie sur le canvas.
